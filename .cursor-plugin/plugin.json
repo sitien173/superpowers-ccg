@@ -1,6 +1,6 @@
 {
   "name": "superpowers-ccg",
-  "description": "Superpowers-CCG: Skills-driven development workflow with CCG phase orchestration (Claude planner/reviewer/integrator + Codex default executor + Gemini UI-heavy executor)",
+  "description": "Skills-driven development with CCG phase orchestration: Claude plans/reviews/integrates, Codex is default executor, Gemini handles UI-heavy phases",
   "version": "1.5.5",
   "author": {
     "name": "sitien173"
@@ -10,12 +10,13 @@
   "license": "MIT",
   "keywords": [
     "skills",
-    "tdd",
-    "debugging",
     "multi-model",
+    "ccg",
     "codex",
     "gemini",
-    "collaboration",
+    "orchestration",
+    "tdd",
+    "debugging",
     "workflows"
   ]
 }
